@@ -7,20 +7,12 @@ I’m **Filipe**, a software developer from **Brazil** 🇧🇷
 - 🎯 Goals: work abroad & keep building cool stuff  
 - 🎮 I also enjoy **video games** and **tech communities**
 
----
 
 ### 📚 Languages & Tools I Have Placed My Hands On
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,php,html,vue,dart,python&perline=6" />
-</p>
-
----
-
-### 📊 My Stats
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uchidof&layout=compact&theme=dark&hide_border=true" height="165"/>
+  <img src="https://skillicons.dev/icons?i=java,php,html,vue,dart,python&perline=3" />
 </p>
 
 ---
