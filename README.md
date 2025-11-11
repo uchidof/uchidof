@@ -20,7 +20,6 @@ I’m **Filipe**, a software developer from **Brazil** 🇧🇷
 ### 📊 My Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uchidof&show_icons=true&theme=dark&hide_border=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uchidof&layout=compact&theme=dark&hide_border=true" height="165"/>
 </p>
 
