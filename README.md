@@ -12,7 +12,9 @@ I’m **Filipe**, a software developer from **Brazil** 🇧🇷
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uchidof&layout=compact&theme=dark&hide_border=true" height="165"/>
-  <img src="https://skillicons.dev/icons?i=java,php,html,vue,dart,python&perline=3" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,php,html,vue,dart,python&perline=6" />
 </p>
 
 ---
