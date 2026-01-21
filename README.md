@@ -1,4 +1,4 @@
-## Hey, what’s up 👋
+## Hello World! 👋
 I’m **Filipe**, a software developer from **Brazil** 🇧🇷  
 
 ## 🧩 About me
@@ -24,10 +24,7 @@ I’m **Filipe**, a software developer from **Brazil** 🇧🇷
   <a href="mailto:fuchidomarib@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" />
   </a>
-  <a href="https://github.com/uchidof" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
-  </a>
 </p>
 
-> “Keep learning. Keep building.” 🚀
+> “Keep learning. Keep building. Keep growing.” 🚀
 
