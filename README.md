@@ -10,11 +10,13 @@ I’m **Filipe**, a software developer from **Brazil** 🇧🇷
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=uchidof&layout=compact&theme=dark&hide_border=true"
+    src="https://skillicons.dev/icons?i=java,php,html,vue,dart,flutter,firebase,python,flask,figma&perline=5"
     height="165"
   />
+</p>
+<p align="center">
   <img
-    src="https://skillicons.dev/icons?i=java,php,html,vue,dart,flutter,firebase,python,flask,figma&perline=5"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=uchidof&layout=compact&theme=dark&hide_border=true"
     height="165"
   />
 </p>
