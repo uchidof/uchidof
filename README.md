@@ -10,7 +10,7 @@ I’m **Filipe**, a software developer from **Brazil** 🇧🇷
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=java,php,html,vue,dart,flutter,firebase,python,flask,figma&perline=5"
+    src="https://skillicons.dev/icons?i=java,php,html,vue,dart,flutter,firebase,python,flask,figma&perline=10"
     height="165"
   />
 </p>
